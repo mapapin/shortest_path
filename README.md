@@ -1,6 +1,6 @@
 # shortest_path
 
-Here is a simple shortest path finder using BFS algo.
+Here is a simple shortest path finder using [BFS](https://en.wikipedia.org/wiki/Breadth-first_search "Wikipedia : BFS") algo.
 
 ## How it works ?
 
