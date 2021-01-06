@@ -15,7 +15,7 @@ def	print_slt(ret):
 	for i, elem in enumerate(ret.list_coord):
 		if i != 0:
 			solution[elem[0]][elem[1]] = '+'
-	os.system('clear')
+#	os.system('clear')
 	for ligne in solution:
 			for case in ligne:	
 				if case == '0':
